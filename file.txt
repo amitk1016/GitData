@@ -2,3 +2,4 @@ this is file which is added by main branch
 here some data is added to gitdata
 here some conflic data is added
 here i am adding new line which will added by main branch
+local line adding to this content
